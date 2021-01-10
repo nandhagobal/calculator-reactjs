@@ -1,0 +1,23 @@
+.Calculator{
+    margin-top: 40px; 
+    width: 80vw;
+    padding-bottom: 1% ;
+    /* padding-right: 1%; */
+    text-align: center;
+    /* border: 2px solid black; */
+    box-sizing: border-box;
+    height: 60vh;
+}
+
+@media (min-width:768px){
+    .Calculator{
+        width: 45vw;
+        height: 50vh;
+    }
+}
+@media (min-width:1024px){
+    .Calculator{
+        width: 22vw;
+        height: 50vh;
+    }
+}

@@ -1,0 +1,8 @@
+.keypad{
+    width: 100%;
+    height: 80%;
+    /* border: 1px solid black; */
+    background-color: white;
+    box-shadow: inset 0px 0px 10px red;
+    display: flex;
+}

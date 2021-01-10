@@ -1,0 +1,25 @@
+.operator{
+    width: 20%;
+    height: 100%;
+    /* border:1px solid black; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.operator button{
+    width: 97%;
+    height: 19%;
+    margin-left: 1%;
+    border-radius: 5px;
+    font-weight: 500;
+    border: none;
+    color: rgb(72, 114, 228);
+    box-shadow: inset 0px 0px 10px blue;
+    /* background-color: rgb(166, 173, 173); */
+    background-color: transparent;
+    outline-color:rgb(65, 188, 236) ;
+    outline-width: 100px;
+    outline-offset: 2px;
+    font-size: xx-large;
+}

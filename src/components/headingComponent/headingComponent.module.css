@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    width: 100vw;
+    background-color: rgb(56, 59, 56);
+    color:firebrick;
+    font-size: 50px;
+    font-weight: bold;
+}
